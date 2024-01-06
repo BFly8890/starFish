@@ -1,1 +1,1 @@
-{"msg":"","startTime":"","endTime":"","id":"","open":false,"ip":{"1.0.3":{"web_url":"https://webapi.jjhyl.net","v":0,"runState":true,"gameId":0,"ipStr":"36.27.215.148:20011"},"1.0.2":{"web_url":"https://webapi.jjhyl.net","v":0,"runState":true,"gameId":0,"ipStr":"36.27.215.148:20011"}}}
+{"msg":"","startTime":"","endTime":"","id":"","open":false,"ip":{"1.0.3":{"web_url":"https://webapi.jjhyl.net","v":1,"runState":true,"gameId":0,"ipStr":"36.27.215.148:20011"},"1.0.2":{"web_url":"https://webapi.jjhyl.net","v":1,"runState":true,"gameId":0,"ipStr":"36.27.215.148:20011"}}}
